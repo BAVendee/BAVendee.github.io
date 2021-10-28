@@ -763,3 +763,238 @@ function fnc__specialcol_(values, context) {
 function fnc_project_color(values, context) {
     return false;
 };
+
+
+
+function exp_parEpiceriesdescommunes_2rule0_eval_expression(context) {
+    // aide_alimentaire_asso_maires_pt_distrib9
+
+    var feature = context.feature;
+    
+    if (feature.properties) {
+        return feature.get('aide_alimentaire_asso_maires_pt_distrib9') ;
+    } else {
+        return feature.get('aide_alimentaire_asso_maires_pt_distrib9') ;
+    }
+}
+
+
+function exp_parEpiceriesdescommunes_2rule1_eval_expression(context) {
+    // aide_alimentaire_asso_maires_desservi_par9
+
+    var feature = context.feature;
+    
+    if (feature.properties) {
+        return feature.get('aide_alimentaire_asso_maires_desservi_par9') ;
+    } else {
+        return feature.get('aide_alimentaire_asso_maires_desservi_par9') ;
+    }
+}
+
+
+function exp_parEpiceriessolidaires_3rule0_eval_expression(context) {
+    // aide_alimentaire_asso_maires_pt_distrib8
+
+    var feature = context.feature;
+    
+    if (feature.properties) {
+        return feature.get('aide_alimentaire_asso_maires_pt_distrib8') ;
+    } else {
+        return feature.get('aide_alimentaire_asso_maires_pt_distrib8') ;
+    }
+}
+
+
+function exp_parEpiceriessolidaires_3rule1_eval_expression(context) {
+    // aide_alimentaire_asso_maires_desservi_par8
+
+    var feature = context.feature;
+    
+    if (feature.properties) {
+        return feature.get('aide_alimentaire_asso_maires_desservi_par8') ;
+    } else {
+        return feature.get('aide_alimentaire_asso_maires_desservi_par8') ;
+    }
+}
+
+
+function exp_parHaltesduCoeur_4rule0_eval_expression(context) {
+    // aide_alimentaire_asso_maires_pt_distrib6
+
+    var feature = context.feature;
+    
+    if (feature.properties) {
+        return feature.get('aide_alimentaire_asso_maires_pt_distrib6') ;
+    } else {
+        return feature.get('aide_alimentaire_asso_maires_pt_distrib6') ;
+    }
+}
+
+
+function exp_parHaltesduCoeur_4rule1_eval_expression(context) {
+    // aide_alimentaire_asso_maires_desservi_par6
+
+    var feature = context.feature;
+    
+    if (feature.properties) {
+        return feature.get('aide_alimentaire_asso_maires_desservi_par6') ;
+    } else {
+        return feature.get('aide_alimentaire_asso_maires_desservi_par6') ;
+    }
+}
+
+
+function exp_parCroixRouge_5rule0_eval_expression(context) {
+    // aide_alimentaire_asso_maires_pt_distrib5
+
+    var feature = context.feature;
+    
+    if (feature.properties) {
+        return feature.get('aide_alimentaire_asso_maires_pt_distrib5') ;
+    } else {
+        return feature.get('aide_alimentaire_asso_maires_pt_distrib5') ;
+    }
+}
+
+
+function exp_parCroixRouge_5rule1_eval_expression(context) {
+    // aide_alimentaire_asso_maires_desservi_par5
+
+    var feature = context.feature;
+    
+    if (feature.properties) {
+        return feature.get('aide_alimentaire_asso_maires_desservi_par5') ;
+    } else {
+        return feature.get('aide_alimentaire_asso_maires_desservi_par5') ;
+    }
+}
+
+
+function exp_parStVincentdePaul_6rule0_eval_expression(context) {
+    // aide_alimentaire_asso_maires_pt_distrib4
+
+    var feature = context.feature;
+    
+    if (feature.properties) {
+        return feature.get('aide_alimentaire_asso_maires_pt_distrib4') ;
+    } else {
+        return feature.get('aide_alimentaire_asso_maires_pt_distrib4') ;
+    }
+}
+
+
+function exp_parStVincentdePaul_6rule1_eval_expression(context) {
+    // aide_alimentaire_asso_maires_desservi_par4
+
+    var feature = context.feature;
+    
+    if (feature.properties) {
+        return feature.get('aide_alimentaire_asso_maires_desservi_par4') ;
+    } else {
+        return feature.get('aide_alimentaire_asso_maires_desservi_par4') ;
+    }
+}
+
+
+function exp_parSecoursPopulaire_7rule0_eval_expression(context) {
+    // aide_alimentaire_asso_maires_pt_distrib3
+
+    var feature = context.feature;
+    
+    if (feature.properties) {
+        return feature.get('aide_alimentaire_asso_maires_pt_distrib3') ;
+    } else {
+        return feature.get('aide_alimentaire_asso_maires_pt_distrib3') ;
+    }
+}
+
+
+function exp_parSecoursPopulaire_7rule1_eval_expression(context) {
+    // aide_alimentaire_asso_maires_desservi_par3
+
+    var feature = context.feature;
+    
+    if (feature.properties) {
+        return feature.get('aide_alimentaire_asso_maires_desservi_par3') ;
+    } else {
+        return feature.get('aide_alimentaire_asso_maires_desservi_par3') ;
+    }
+}
+
+
+function exp_parSecoursCatholique_8rule0_eval_expression(context) {
+    // aide_alimentaire_asso_maires_pt_distrib2
+
+    var feature = context.feature;
+    
+    if (feature.properties) {
+        return feature.get('aide_alimentaire_asso_maires_pt_distrib2') ;
+    } else {
+        return feature.get('aide_alimentaire_asso_maires_pt_distrib2') ;
+    }
+}
+
+
+function exp_parSecoursCatholique_8rule1_eval_expression(context) {
+    // aide_alimentaire_asso_maires_desservi_par2
+
+    var feature = context.feature;
+    
+    if (feature.properties) {
+        return feature.get('aide_alimentaire_asso_maires_desservi_par2') ;
+    } else {
+        return feature.get('aide_alimentaire_asso_maires_desservi_par2') ;
+    }
+}
+
+
+function exp_parRestosduCoeur_9rule0_eval_expression(context) {
+    // aide_alimentaire_asso_maires_pt_distrib1
+
+    var feature = context.feature;
+    
+    if (feature.properties) {
+        return feature.get('aide_alimentaire_asso_maires_pt_distrib1') ;
+    } else {
+        return feature.get('aide_alimentaire_asso_maires_pt_distrib1') ;
+    }
+}
+
+
+function exp_parRestosduCoeur_9rule1_eval_expression(context) {
+    // aide_alimentaire_asso_maires_desservi_par1
+
+    var feature = context.feature;
+    
+    if (feature.properties) {
+        return feature.get('aide_alimentaire_asso_maires_desservi_par1') ;
+    } else {
+        return feature.get('aide_alimentaire_asso_maires_desservi_par1') ;
+    }
+}
+
+
+function exp_parBanqueAlimentaire_10rule0_eval_expression(context) {
+    // aide_alimentaire_asso_maires_pt_distrib7
+
+    var feature = context.feature;
+    
+    if (feature.properties) {
+        return feature.get('aide_alimentaire_asso_maires_pt_distrib7') ;
+    } else {
+        return feature.get('aide_alimentaire_asso_maires_pt_distrib7') ;
+    }
+}
+
+
+function exp_parBanqueAlimentaire_10rule1_eval_expression(context) {
+    // aide_alimentaire_asso_maires_desservi_par7
+
+    var feature = context.feature;
+    
+    if (feature.properties) {
+        return feature.get('aide_alimentaire_asso_maires_desservi_par7') ;
+    } else {
+        return feature.get('aide_alimentaire_asso_maires_desservi_par7') ;
+    }
+}
